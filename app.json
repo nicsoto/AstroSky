@@ -1,0 +1,76 @@
+{
+  "expo": {
+    "name": "AstroSky",
+    "slug": "astrosky",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "astrosky",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0a2e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "AstroSky necesita acceso a la cámara para mostrar el cielo en realidad aumentada.",
+        "NSLocationWhenInUseUsageDescription": "AstroSky necesita tu ubicación para calcular las posiciones correctas de estrellas y planetas.",
+        "NSMotionUsageDescription": "AstroSky usa los sensores de movimiento para detectar hacia dónde apuntás el celular."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a2e",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "HIGH_SAMPLING_RATE_SENSORS",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "HIGH_SAMPLING_RATE_SENSORS",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.nicsoto.astrosky"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "AstroSky necesita acceso a la cámara para mostrar el cielo en realidad aumentada."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "AstroSky necesita tu ubicación para calcular las posiciones de los astros."
+        }
+      ],
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "AstroSky usa los sensores de movimiento para seguir la orientación del dispositivo."
+        }
+      ]
+    ]
+  }
+}

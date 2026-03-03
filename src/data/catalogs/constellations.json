@@ -1,0 +1,303 @@
+[
+  {
+    "abbreviation": "Ori",
+    "name": "Orion",
+    "genitive": "Orionis",
+    "lines": [
+      [27989, 26311], [26311, 25930], [25930, 26727],
+      [26727, 24436], [24436, 27366], [27366, 25428],
+      [25428, 25930], [27989, 25930], [26311, 25336]
+    ]
+  },
+  {
+    "abbreviation": "UMa",
+    "name": "Ursa Major",
+    "genitive": "Ursae Majoris",
+    "lines": [
+      [54061, 59774], [59774, 58001], [58001, 64532],
+      [64532, 62956], [62956, 65378], [65378, 67301]
+    ]
+  },
+  {
+    "abbreviation": "UMi",
+    "name": "Ursa Minor",
+    "genitive": "Ursae Minoris",
+    "lines": [
+      [11767, 85670]
+    ]
+  },
+  {
+    "abbreviation": "Cas",
+    "name": "Cassiopeia",
+    "genitive": "Cassiopeiae",
+    "lines": [
+      [746, 3179], [3179, 4427], [4427, 6686], [6686, 8886]
+    ]
+  },
+  {
+    "abbreviation": "Cyg",
+    "name": "Cygnus",
+    "genitive": "Cygni",
+    "lines": [
+      [102098, 100751], [100751, 94779],
+      [100751, 95947], [100751, 97649]
+    ]
+  },
+  {
+    "abbreviation": "Leo",
+    "name": "Leo",
+    "genitive": "Leonis",
+    "lines": [
+      [49669, 50583], [50583, 54872], [54872, 57632],
+      [49669, 47908], [50583, 47908]
+    ]
+  },
+  {
+    "abbreviation": "Sco",
+    "name": "Scorpius",
+    "genitive": "Scorpii",
+    "lines": [
+      [78401, 78820], [78820, 80763], [80763, 82396],
+      [82396, 84143], [84143, 86032]
+    ]
+  },
+  {
+    "abbreviation": "Gem",
+    "name": "Gemini",
+    "genitive": "Geminorum",
+    "lines": [
+      [36850, 37826], [36850, 37279]
+    ]
+  },
+  {
+    "abbreviation": "CMa",
+    "name": "Canis Major",
+    "genitive": "Canis Majoris",
+    "lines": [
+      [32349, 33579], [33579, 30324], [30324, 34444],
+      [32349, 31681]
+    ]
+  },
+  {
+    "abbreviation": "Tau",
+    "name": "Taurus",
+    "genitive": "Tauri",
+    "lines": [
+      [21421, 25336]
+    ]
+  },
+  {
+    "abbreviation": "Aql",
+    "name": "Aquila",
+    "genitive": "Aquilae",
+    "lines": [
+      [97649, 100453], [97649, 98036]
+    ]
+  },
+  {
+    "abbreviation": "Cru",
+    "name": "Crux",
+    "genitive": "Crucis",
+    "lines": [
+      [60718, 62434], [61084, 59747]
+    ]
+  },
+  {
+    "abbreviation": "Sgr",
+    "name": "Sagittarius",
+    "genitive": "Sagittarii",
+    "lines": [
+      [90185, 89931], [89931, 93506], [93506, 88635],
+      [88635, 89642], [89642, 92855], [92855, 88635],
+      [89642, 90185]
+    ]
+  },
+  {
+    "abbreviation": "Lyr",
+    "name": "Lyra",
+    "genitive": "Lyrae",
+    "lines": []
+  },
+  {
+    "abbreviation": "Peg",
+    "name": "Pegasus",
+    "genitive": "Pegasi",
+    "lines": [
+      [677, 113963], [113963, 113881], [113881, 1067], [1067, 677]
+    ]
+  },
+  {
+    "abbreviation": "And",
+    "name": "Andromeda",
+    "genitive": "Andromedae",
+    "lines": [
+      [677, 9884], [9884, 5447]
+    ]
+  },
+  {
+    "abbreviation": "Per",
+    "name": "Perseus",
+    "genitive": "Persei",
+    "lines": [
+      [15863, 14576]
+    ]
+  },
+  {
+    "abbreviation": "Ari",
+    "name": "Aries",
+    "genitive": "Arietis",
+    "lines": [
+      [10826, 9640]
+    ]
+  },
+  {
+    "abbreviation": "Boo",
+    "name": "Boötes",
+    "genitive": "Boötis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Vir",
+    "name": "Virgo",
+    "genitive": "Virginis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Lib",
+    "name": "Libra",
+    "genitive": "Librae",
+    "lines": [
+      [72622, 71860]
+    ]
+  },
+  {
+    "abbreviation": "CrB",
+    "name": "Corona Borealis",
+    "genitive": "Coronae Borealis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Her",
+    "name": "Hercules",
+    "genitive": "Herculis",
+    "lines": [
+      [86228, 84012]
+    ]
+  },
+  {
+    "abbreviation": "Oph",
+    "name": "Ophiuchus",
+    "genitive": "Ophiuchi",
+    "lines": []
+  },
+  {
+    "abbreviation": "Dra",
+    "name": "Draco",
+    "genitive": "Draconis",
+    "lines": [
+      [87833, 84345]
+    ]
+  },
+  {
+    "abbreviation": "Cen",
+    "name": "Centaurus",
+    "genitive": "Centauri",
+    "lines": [
+      [71683, 68702]
+    ]
+  },
+  {
+    "abbreviation": "Car",
+    "name": "Carina",
+    "genitive": "Carinae",
+    "lines": [
+      [30438, 45556], [45556, 44816]
+    ]
+  },
+  {
+    "abbreviation": "Vel",
+    "name": "Vela",
+    "genitive": "Velorum",
+    "lines": []
+  },
+  {
+    "abbreviation": "Pup",
+    "name": "Puppis",
+    "genitive": "Puppis",
+    "lines": [
+      [39953, 39429]
+    ]
+  },
+  {
+    "abbreviation": "CMi",
+    "name": "Canis Minor",
+    "genitive": "Canis Minoris",
+    "lines": []
+  },
+  {
+    "abbreviation": "Eri",
+    "name": "Eridanus",
+    "genitive": "Eridani",
+    "lines": []
+  },
+  {
+    "abbreviation": "PsA",
+    "name": "Piscis Austrinus",
+    "genitive": "Piscis Austrini",
+    "lines": []
+  },
+  {
+    "abbreviation": "Gru",
+    "name": "Grus",
+    "genitive": "Gruis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Pav",
+    "name": "Pavo",
+    "genitive": "Pavonis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Phe",
+    "name": "Phoenix",
+    "genitive": "Phoenicis",
+    "lines": []
+  },
+  {
+    "abbreviation": "Cap",
+    "name": "Capricornus",
+    "genitive": "Capricorni",
+    "lines": [
+      [92175, 100345]
+    ]
+  },
+  {
+    "abbreviation": "Aqr",
+    "name": "Aquarius",
+    "genitive": "Aquarii",
+    "lines": [
+      [109268, 109074], [109074, 107556]
+    ]
+  },
+  {
+    "abbreviation": "Cep",
+    "name": "Cepheus",
+    "genitive": "Cephei",
+    "lines": []
+  },
+  {
+    "abbreviation": "Hya",
+    "name": "Hydra",
+    "genitive": "Hydrae",
+    "lines": []
+  },
+  {
+    "abbreviation": "Cet",
+    "name": "Cetus",
+    "genitive": "Ceti",
+    "lines": [
+      [14135, 2081]
+    ]
+  }
+]
